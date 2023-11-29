@@ -1,4 +1,4 @@
-# # Problema cu conservele
+# Problema cu conservele
 
 ## Datele problemei:
 
